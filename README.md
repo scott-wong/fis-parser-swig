@@ -1,3 +1,3 @@
 fis-parser-artc
 ====
-A parser for fis to compile art-template.
+A parser for fis to compile swig.
