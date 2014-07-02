@@ -5,6 +5,7 @@ var swig = require('swig');
 module.exports = function(content, file, conf) {
 
     swig.setDefaults({
+        cache: false,
         varControls: ['{=', '=}']
     });
 
